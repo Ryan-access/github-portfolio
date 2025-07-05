@@ -28,6 +28,6 @@
     <p>Email me at <a href="mailto:ryan.quijano.me@gmail.com">ryan.quijano.me@gmail.com</a></p>
   </section>
 
-  <script src="script.js"></script>
+  <script src="script.js"> </script>
 </body>
 </html>
